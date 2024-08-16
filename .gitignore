@@ -33,3 +33,5 @@ out/
 gradlew.bat
 gradlew
 /gradle/
+
+.DS_Store
