@@ -29,9 +29,4 @@ out/
 ### VS Code ###
 .vscode/
 
-### Gradle ###
-gradlew.bat
-gradlew
-/gradle/
-
 .DS_Store
